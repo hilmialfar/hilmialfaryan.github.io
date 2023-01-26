@@ -39,3 +39,9 @@ task.
    Data visualization in the form of a Dashboard using Google Data (Looker) Studio with a case study of Covid-19 Global. This dashboard displays the distribution of Covid-19 cases for each country around the world ranging from total cases, total deaths and death rates, total recoveries, total active cases, and total tests. Dataset obtained from [Worldometer - Coronavirus Statistics](https://www.worldometers.info/coronavirus/).
    
    Click : [Google Data (Looker) Studio](https://datastudio.google.com/u/0/reporting/7197c14f-2576-4f38-afb3-3b5776671455/page/9oHxC)
+
+5. Electronic Retail Sales
+    
+   Analyzed transaction data of a fictitious US-based electronics retail company whose main sales are smartphones. Data analysis is done by understanding the business, understanding the data, exploratory data analysis (data cleaning, missing values, descriptive or summary statistics, detecting outliers with boxplots, data correlation, and data visualization) to creating interactive dashboards with filters and slicers. The tools used are Ms. Excel.
+   
+   Click : [PPT Deck](https://drive.google.com/file/d/1-0e5fcRhIvXrQz22w3pHEPe3D9t-BN73/view?usp=share_link), [Ms. Excel](https://docs.google.com/spreadsheets/d/1MR1EC5GMr1quFLF6HdIEexNXGg45YSYo/edit?usp=share_link&ouid=113445932155232123441&rtpof=true&sd=true)
