@@ -42,6 +42,6 @@ task.
 
 5. Electronic Retail Sales
     
-   Analyzed transaction data of a fictitious US-based electronics retail company whose main sales are smartphones. Data analysis is done by understanding the business, understanding the data, exploratory data analysis (data cleaning, missing values, descriptive or summary statistics, detecting outliers with boxplots, data correlation, and data visualization) to creating interactive dashboards with filters and slicers. The tools used are Ms. Excel.
+   Analyzed transaction data of a fictitious US-based electronics retail company whose main sales are smartphones. Data analysis is done by understanding the business, understanding the data, exploratory data analysis (data cleaning, missing values, descriptive or summary statistics, detecting outliers with boxplots, data correlation, and data visualization), and creating interactive dashboards with filters and slicers. The tool used is Ms. Excel.
    
-   Click : [PPT Deck](https://drive.google.com/file/d/1-0e5fcRhIvXrQz22w3pHEPe3D9t-BN73/view?usp=share_link), [Ms. Excel](https://docs.google.com/spreadsheets/d/1MR1EC5GMr1quFLF6HdIEexNXGg45YSYo/edit?usp=share_link&ouid=113445932155232123441&rtpof=true&sd=true)
+   Click : [Ms. Excel](https://docs.google.com/spreadsheets/d/1MR1EC5GMr1quFLF6HdIEexNXGg45YSYo/edit?usp=share_link&ouid=113445932155232123441&rtpof=true&sd=true), [PPT Deck](https://drive.google.com/file/d/1-0e5fcRhIvXrQz22w3pHEPe3D9t-BN73/view?usp=share_link)
