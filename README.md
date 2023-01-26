@@ -10,7 +10,7 @@ task.
 
 
 [LinkedIn](https://www.linkedin.com/in/hilmialfaryan?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BpK967SKyReCml0b0Dt1Ymg%3D%3D) |
-[Email](alfaryanhilmi@gmail.com) | [Contact Phone](https://wa.me/62895383062990)
+[Email](alfaryanhilmi@gmail.com) | [WhatsApp](https://wa.me/62895383062990)
 
 **Portfolio of Data Analysis and Tool Usage**
 
@@ -55,3 +55,10 @@ task.
    Completed a case study of a fictitious company called PT. Sejahtera Bersama by creating an entity relationship diagram (ERD) and 1 master table from 4 sales datasets using Ms. Access then analyzing the data to create a dashboard of company revenue from 2020 to 2021 using Ms. Excel.
    
    Click : [PPT Deck](https://drive.google.com/file/d/1dM82dPtD1GPDKPiEW8Ks9xDo4n1vqPt6/view?usp=share_link), [E-Certificate](https://drive.google.com/file/d/1Y5oLnGv59EgoY9JzJ0iDEGHxNskRRHE5/view?usp=share_link)
+
+**Certification**
+1. SQL Basic - HackerRank
+   
+   Certification on basic level SQL programming.
+   
+   Credential ID: D60BADA219C9 | [Credential URL](https://www.hackerrank.com/certificates/d60bada219c9)
