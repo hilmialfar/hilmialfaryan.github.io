@@ -9,8 +9,7 @@ able to work in teams and individually, and always strives to achieve the highes
 task.
 
 
-[LinkedIn](https://www.linkedin.com/in/hilmialfaryan?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BpK967SKyReCml0b0Dt1Ymg%3D%3D) |
-[Email](alfaryanhilmi@gmail.com) | [WhatsApp](https://wa.me/62895383062990)
+[LinkedIn](https://www.linkedin.com/in/hilmialfaryan) | [Email](alfaryanhilmi@gmail.com) | [WhatsApp](https://wa.me/62895383062990)
 
 **Portfolio of Data Analysis and Tool Usage**
 
