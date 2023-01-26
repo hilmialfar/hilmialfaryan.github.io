@@ -55,6 +55,12 @@ task.
    
    [PPT Deck](https://drive.google.com/file/d/1dM82dPtD1GPDKPiEW8Ks9xDo4n1vqPt6/view?usp=share_link) | [E-Certificate](https://drive.google.com/file/d/1Y5oLnGv59EgoY9JzJ0iDEGHxNskRRHE5/view?usp=share_link)
 
+8. Student Mental Health Analysis
+   
+   Analyze the mental health of students and their academic condition using datasets from Kaggle collected by conducting a google form survey to university students from July 8 to 18, 2020. 
+   
+   [Python](https://github.com/hilmialfar/Self-Project/blob/main/StudentMentalHealth_DataAnalysis.ipynb) |
+
 **Certification**
 1. SQL Basic - HackerRank
    
