@@ -15,13 +15,13 @@ task.
 
 1. Product Department - Final Project MSIB Kampus Merdeka (Data, Business Analytics & Operations Bootcamp)
    
-   The final project is to process dummy data representing product departments of a fictitious E-Commerce company to help the company perform product optimization by    applying Cross Industry Standard Process for Data Mining (CRISP-DM) during the data analysis process, machine learning modeling with K-Means Clustering algorithm, and data visualization in the form of dashboards/storytelling. The goal is to identify product categories that are popular and unpopular with customers. The results of K-Means Clustering modeling show 3 clusters, which are popular, moderately popular, and unpopular category clusters. Recommendations for companies to increase sales are to do promos or cross-selling of products that are unpopular to customers or reduce the number of products from the distributor. 
+   The final project is to process dummy data representing product departments of a fictitious E-Commerce company to help the company perform product optimization by    applying Cross Industry Standard Process for Data Mining (CRISP-DM) during the data analysis process (Exploratory Data Analysis), machine learning modeling with K-Means Clustering algorithm, and data visualization in the form of dashboards/storytelling.
    
    [Python](https://github.com/hilmialfar/Ruangguru-Project/blob/main/Final_Project_Ruangguru_Hilmi_Alfa_Ryan.ipynb) | [Tableau](https://public.tableau.com/views/ProductDepartment/DashboardCP52?:language=en-US&:display_count=n&:origin=viz_share_link) | [PostgreSQL](https://github.com/hilmialfar/Ruangguru-Project/blob/main/Query_FP_Ruangguru_1.sql) | [PPT Deck](https://drive.google.com/file/d/1vXXyiXLm_NQKii153sI_fI26cRnBi1uD/view) | [E-Certificate](https://drive.google.com/file/d/1C52z3SdmcUo92FjS6DO4wSS_GWOabDw9/view)
    
 2. Time Series Forecasting of E-Commerce Transactions - Group Project MSIB Kampus Merdeka (Data, Business Analytics & Operations Bootcamp)
     
-    Data analysis and time series forecasting modeling for a UK-based E-Commerce company using transaction dataset from December 01, 2010 to December 09, 2011. The company mainly sells unique gifts for any occasion with the majority of customers being wholesalers. Data analysis and modeling were performed applying the Cross Industry Standard Process for Data Mining (CRISP-DM).
+    Data analysis and time series forecasting modeling for a UK-based E-Commerce company using transaction dataset from December 01, 2010 to December 09, 2011. The company mainly sells unique gifts for any occasion with the majority of customers being wholesalers. Data analysis and machine learning modeling were performed applying the Cross Industry Standard Process for Data Mining (CRISP-DM).
     
     [Python](https://github.com/hilmialfar/Ruangguru-Project/blob/main/Group_Project_Time_series_Forecasting.ipynb) | [PPT Deck](https://drive.google.com/file/d/1loMS-ZQUocdTXUUQFndtUaFBhlWYJnuF/view?usp=share_link)
     
@@ -51,13 +51,13 @@ task.
    
 7. Bank Muamalat Business Intelligence Analyst - Virtual Internship Program Rakamin Academy
 
-   Completed a case study of a fictitious company called PT. Sejahtera Bersama by creating an entity relationship diagram (ERD) and 1 master table from 4 sales datasets using Ms. Access then analyzing the data to create a dashboard of company revenue from 2020 to 2021 using Ms. Excel.
+   Completed final case study of a fictitious company called PT. Sejahtera Bersama by creating an entity relationship diagram (ERD) and 1 master table from 4 sales datasets using Ms. Access then analyze the data and visualize the data in the form of a company revenue dashboard from 2020 to 2021 using Ms. Excel.
    
    [PPT Deck](https://drive.google.com/file/d/1dM82dPtD1GPDKPiEW8Ks9xDo4n1vqPt6/view?usp=share_link) | [E-Certificate](https://drive.google.com/file/d/1Y5oLnGv59EgoY9JzJ0iDEGHxNskRRHE5/view?usp=share_link)
 
 8. Student Mental Health Analysis
    
-   Analyze the mental health of students and their academic condition using datasets from Kaggle collected by conducting a google form survey to university students from July 8 to 18, 2020. 
+   Analyze the mental health of students and their academic condition using datasets from [Kaggle](https://www.kaggle.com/datasets/shariful07/student-mental-health) collected by conducting a google form survey to university students from July 8 to 18, 2020. Analysis using Google Colab with Pandas and Seaborn libraries.
    
    [Python](https://github.com/hilmialfar/Self-Project/blob/main/StudentMentalHealth_DataAnalysis.ipynb) |
 
