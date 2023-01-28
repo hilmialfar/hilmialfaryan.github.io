@@ -17,7 +17,7 @@ task.
    
    The final project is to process dummy data representing product departments of a fictitious E-Commerce company to help the company perform product optimization by    applying Cross Industry Standard Process for Data Mining (CRISP-DM) during the data analysis process (Exploratory Data Analysis), machine learning modeling with K-Means Clustering algorithm, and data visualization in the form of dashboards/storytelling.
    
-   [Python](https://github.com/hilmialfar/Ruangguru-Project/blob/main/FinalProjectRuangguru_Hilmi_Alfa_Ryan.ipynb) | [Tableau](https://public.tableau.com/views/ProductDepartemenDashboard/DashboardCP52?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) | [PostgreSQL](https://github.com/hilmialfar/Ruangguru-Project/blob/main/Query_FP_Ruangguru_1.sql) | [PPT Deck](https://drive.google.com/file/d/1y3hJHOFv_ysxIjJGirWAFpYAISFQhdZi/view?usp=share_link) | [E-Certificate](https://drive.google.com/file/d/1C52z3SdmcUo92FjS6DO4wSS_GWOabDw9/view)
+   [Python](https://github.com/hilmialfar/Ruangguru-Project/blob/main/FinalProjectRuangguru_Hilmi_Alfa_Ryan.ipynb) | [Tableau](https://public.tableau.com/views/ProductDepartemenDashboard/DashboardCP52?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) | [PostgreSQL](https://github.com/hilmialfar/Ruangguru-Project/blob/main/Query_FP_Ruangguru_1.sql) | [PPT Deck](https://drive.google.com/file/d/1y3hJHOFv_ysxIjJGirWAFpYAISFQhdZi/view?usp=share_link) | [E-Certificate](https://drive.google.com/file/d/1C52z3SdmcUo92FjS6DO4wSS_GWOabDw9/view?usp=share_link)
    
 2. Time Series Forecasting of E-Commerce Transactions - Group Project MSIB Kampus Merdeka (Data, Business Analytics & Operations Bootcamp)
     
@@ -47,7 +47,7 @@ task.
    
    Mini portfolio with 2 table analysis using PostgreSQL by limiting and sorting data, combining data from multiple tables with joins, editing and deleting data, and performing simple math operations.
    
-   [PPT Deck](https://drive.google.com/file/d/1QBewSzoI4SAs0A9Xkm7R2n8245sbH1u-/view) | [E-Certificate](https://drive.google.com/file/d/17qOviPquZjOOHmQofKBsQr7ppqkM7c07/view?usp=share_link)
+   [PPT Deck](https://drive.google.com/file/d/1QBewSzoI4SAs0A9Xkm7R2n8245sbH1u-/view?usp=share_link) | [E-Certificate](https://drive.google.com/file/d/17qOviPquZjOOHmQofKBsQr7ppqkM7c07/view?usp=share_link)
    
 7. Bank Muamalat Business Intelligence Analyst - Virtual Internship Program Rakamin Academy
 
