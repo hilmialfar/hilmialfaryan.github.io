@@ -17,7 +17,7 @@ task.
    
    The final project is to process dummy data representing product departments of a fictitious E-Commerce company to help the company perform product optimization by    applying Cross Industry Standard Process for Data Mining (CRISP-DM) during the data analysis process (Exploratory Data Analysis), machine learning modeling with K-Means Clustering algorithm, and data visualization in the form of dashboards/storytelling.
    
-   [Python](https://github.com/hilmialfar/Ruangguru-Project/blob/main/FinalProjectRuangguru_Hilmi_Alfa_Ryan.ipynb) | [Tableau](https://public.tableau.com/views/ProductDepartemenDashboard/DashboardCP52?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) | [PostgreSQL](https://github.com/hilmialfar/Ruangguru-Project/blob/main/Query_FP_Ruangguru_1.sql) | [PPT Deck](https://drive.google.com/file/d/1vXXyiXLm_NQKii153sI_fI26cRnBi1uD/view) | [E-Certificate](https://drive.google.com/file/d/1C52z3SdmcUo92FjS6DO4wSS_GWOabDw9/view)
+   [Python](https://github.com/hilmialfar/Ruangguru-Project/blob/main/FinalProjectRuangguru_Hilmi_Alfa_Ryan.ipynb) | [Tableau](https://public.tableau.com/views/ProductDepartemenDashboard/DashboardCP52?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) | [PostgreSQL](https://github.com/hilmialfar/Ruangguru-Project/blob/main/Query_FP_Ruangguru_1.sql) | [PPT Deck](https://drive.google.com/file/d/1y3hJHOFv_ysxIjJGirWAFpYAISFQhdZi/view?usp=share_link) | [E-Certificate](https://drive.google.com/file/d/1C52z3SdmcUo92FjS6DO4wSS_GWOabDw9/view)
    
 2. Time Series Forecasting of E-Commerce Transactions - Group Project MSIB Kampus Merdeka (Data, Business Analytics & Operations Bootcamp)
     
